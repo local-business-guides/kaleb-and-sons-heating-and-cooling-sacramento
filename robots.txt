@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/kaleb-and-sons-heating-and-cooling-sacramento/sitemap.xml
